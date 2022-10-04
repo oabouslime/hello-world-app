@@ -1,1 +1,1 @@
-webhook github
+webhook trigger
